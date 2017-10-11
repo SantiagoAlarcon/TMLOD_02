@@ -5,12 +5,19 @@ div {
       border: 1px solid red;
       /*background-image: url("images/Captura de pantalla 2012-10-26 a la(s) 21.25.58.png");*/
       /*background-size:cover;*/
-    display:inline-block;
-      
+      display:inline-block;
+      box-sizing: border-box;
 }
-
+/*el {*/
+    /*width:100px;*/
+    /*height:100px;*/
+    /*padding:10px;*/
+    /*border: 1px solid black;*/
+    /*align-content: space-between;*/
+    /*box-sizing: border-box;*/
+/*}*/
 header {
-    width: 100px;
+    width: 200px;
     height: 100px;
     border: 1px solid aqua;
 }
@@ -18,11 +25,13 @@ header {
 img{
     width: 200px;
     height: 200px;
-    border: 50px groove brown;
+    border: 20px groove brown;
     border-radius: 100%;
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
-    
+    box-sizing: border-box;
+
+
 }.imguno{
     width: 200px;
     height: 200px;
