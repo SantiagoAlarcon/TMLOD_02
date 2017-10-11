@@ -1,9 +1,11 @@
 div {
-      width: 2000px;
-      height: 2000px;
+      width: 200px;
+      height: 200px;
+      margin: 10px;
       border: 1px solid red;
-      background-image: url("images/Captura de pantalla 2012-10-26 a la(s) 21.25.58.png");
-      background-size:cover;
+      /*background-image: url("images/Captura de pantalla 2012-10-26 a la(s) 21.25.58.png");*/
+      /*background-size:cover;*/
+    display:inline-block;
       
 }
 
@@ -18,6 +20,8 @@ img{
     height: 200px;
     border: 50px groove brown;
     border-radius: 100%;
+    padding: 20px;
+    margin: 10px;
     
 }.imguno{
     width: 200px;
