@@ -1,0 +1,42 @@
+div {
+      width: 2000px;
+      height: 2000px;
+      border: 1px solid red;
+      background-image: url("images/Captura de pantalla 2012-10-26 a la(s) 21.25.58.png");
+      background-size:cover;
+      
+}
+
+header {
+    width: 100px;
+    height: 100px;
+    border: 1px solid aqua;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 50px groove brown;
+    border-radius: 100%;
+    
+}.imguno{
+    width: 200px;
+    height: 200px;
+    border: 50px dashed brown;
+}.imgdos{
+    width: 200px;
+    height: 200px;
+    border: 50px outset brown;
+}.imgtres{
+    width: 200px;
+    height: 200px;
+    border: 50px dotted brown;
+}.imgcuatro{
+    width: 200px;
+    height: 200px;
+    border: 50px ridge brown;
+}
+
+
+ 
+
