@@ -1,0 +1,46 @@
+#tercero {
+    font-size: larger;
+    color:red;
+}
+
+/*ol li:nth-child(3){*/
+    /*color:red;*/
+/*}*/
+
+
+.unico {
+    color:red;
+}
+
+
+[target="_blank"] {
+
+    border:2px solid blue;
+}
+
+a #enganche:link{
+    color:#d22d21;
+}
+
+a #enganche:visited{
+    color: #975ad2;
+}
+
+a #enganche:hover{
+    color: #d2bec0;
+}
+
+a #enganche:active{
+    color: #c8ff55;
+}
+
+
+p:first-letter{
+    font-size: larger;
+    color:red;
+}
+
+p:first-line{
+    font-size: smaller;
+    color:blue;
+}

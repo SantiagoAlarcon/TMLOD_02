@@ -1,0 +1,7 @@
+div + p {
+    color:red;
+}
+
+article::first-line {
+    color:blue;
+}
