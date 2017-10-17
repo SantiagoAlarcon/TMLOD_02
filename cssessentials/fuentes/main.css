@@ -4,6 +4,8 @@ html {
 
 h1 {
     font-family:
+            'Quicksand',
+            'Roboto Slab',
             "Bitstream Vera Sans Mono",
             "American Typewriter",
             "Adobe Fan Heiti Std",
@@ -11,8 +13,27 @@ h1 {
     font-weight: bold;
     font-size:6rem;
     font-style: italic;
-
+    font-variant: small-caps;
+    text-transform: uppercase;
+    line-height: 2;
+    border:1px solid black;
+    text-shadow: 2px -2px 2px red;
+    
 }
+
+h2 {
+    font-family:
+            'Quicksand',
+            'Roboto Slab',
+            "Bitstream Vera Sans Mono",
+            "American Typewriter",
+            "Adobe Fan Heiti Std",
+            sans-serif;
+    font-weight: bold;
+    font-size:5rem;
+    font-style: italic;
+}
+
 p { font-family:
         "Bitstream Vera Sans Mono",
         "American Typewriter",
@@ -22,5 +43,15 @@ p { font-family:
     font-weight: 500;
     font-style: italic;
 
+}
+
+div {
+    width:90%;
+    height: 3rem;
+    font-size:2rem;
+    text-align: center;
+    border: 1px solid #ff0033;
+    text-shadow: 1px 1px 2px red;
+    
 
 }
