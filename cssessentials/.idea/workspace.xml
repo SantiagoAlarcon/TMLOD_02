@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1669c453-fd6a-4d49-9cb0-78c2b2b0224c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flexbox/index.html" afterPath="$PROJECT_DIR$/flexbox/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tacoshop/index.html" afterPath="$PROJECT_DIR$/tacoshop/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +19,10 @@
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tacoshop/index.html">
+            <entry file="file://$PROJECT_DIR$/flexbox/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="432">
-                  <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+                <state relative-caret-position="638">
+                  <caret line="68" column="4" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -32,10 +33,10 @@
       <split-second>
         <leaf>
           <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tacoshop/main.css">
+            <entry file="file://$PROJECT_DIR$/flexbox/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="576">
-                  <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+                <state relative-caret-position="216">
+                  <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
@@ -100,6 +101,8 @@
         <option value="$PROJECT_DIR$/menuhorizontal/main.css" />
         <option value="$PROJECT_DIR$/tacoshop/index.html" />
         <option value="$PROJECT_DIR$/tacoshop/main.css" />
+        <option value="$PROJECT_DIR$/flexbox/main.css" />
+        <option value="$PROJECT_DIR$/flexbox/index.html" />
       </list>
     </option>
   </component>
@@ -183,6 +186,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssessentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssessentials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -654,12 +671,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507712655671</updated>
       <workItem from="1507712663445" duration="30905000" />
-      <workItem from="1508277893230" duration="18247000" />
+      <workItem from="1508277893230" duration="20521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49152000" />
+    <option name="totallyTimeSpent" value="51426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
@@ -990,8 +1007,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tacoshop/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="552">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexbox/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="68" column="4" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
           <folding />
         </state>
       </provider>
