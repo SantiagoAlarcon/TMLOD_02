@@ -1,0 +1,15 @@
+body{
+ display:flex;
+    flex-flow:row wrap;
+    font-weight: bold;
+    text-align: center;
+}
+body > * {
+    /*border:1px solid green;*/
+    padding:10Px;
+    flex:1 100%;
+}
+
+header main nav aside footer {
+    flex:1 100%;
+}
